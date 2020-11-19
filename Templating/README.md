@@ -8,7 +8,7 @@
 - Templating is basically defining the structure and leaves out space for dynamic content to be added
 - It then takes the input data and outputs the HTML output as a response 
 - You can create your own template but it is highly recommended to use the existing templating engines that exist
--  - This is because they are not difficult to install and they have been tested, which means: 
-           -errors
-           - bugs
-           - security flaws that people may face already have been resolved
+      - This is because they are not difficult to install and they have been tested, which means: 
+           errors
+           bugs
+           security flaws that people may face already have been resolved
